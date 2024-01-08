@@ -1,4 +1,5 @@
 def funcA():
+    print("AAA")
     return
 
 def funcB():
@@ -6,3 +7,4 @@ def funcB():
     return
 print("Hello World")
 funcB()
+funcA()
